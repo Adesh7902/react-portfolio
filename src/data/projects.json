@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Project A",
+        "imageSrc": "projects/project.png",
+        "description": "This is a project made to learn latest technology by building an app",
+        "skills":["MongoDb","React", "Express", "Node"],
+        "demo":"https://www.google.com",
+        "source": "https://github.com/Adesh7902"
+    },
+    {
+        "title": "Project B",
+        "imageSrc": "projects/project.png",
+        "description": "This is a project made to learn latest technology by building an app",
+        "skills":["MongoDb","React", "Express", "Node"],
+        "demo":"https://www.google.com",
+        "source": "https://github.com/Adesh7902"
+    },
+    {
+        "title": "Project C",
+        "imageSrc": "projects/project.png",
+        "description": "This is a project made to learn latest technology by building an app",
+        "skills":["MongoDb","React", "Express", "Node"],
+        "demo":"https://www.google.com",
+        "source": "https://github.com/Adesh7902"
+    }
+]
